@@ -1,0 +1,10 @@
+1. create_DB
+2. Employee.py
+3. Supplier.py
+4. Category.py
+5. Product.py
+6. Login.py 
+     --> if admin -- open Dashboard
+     --> if employee -- open Billing
+
+in BSW all the required tables are there

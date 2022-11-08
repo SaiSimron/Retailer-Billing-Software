@@ -1,0 +1,24 @@
+
+		BILL-Management 
+	 Phone No.7327852324,BBSR-751024
+===============================================
+ Customer Name: Baishali			Time: 08:43:30
+ Ph no. :9439175853
+ Bill No. 28186352			Date: 28/10/2022
+===============================================
+ Product Name			QTY	Price 
+===============================================
+        
+ Fanta(1 L)			1	Rs.58.0
+ TATA Salt(500 gm)			1	Rs.6.0
+ Lifebuoy(4pc pk)			1	Rs.40.0
+ Dairy Milk(big)			1	Rs.40.0
+ Basumati(1kg pk)			1	Rs.72.0
+ Fortune(1 Ltr)			1	Rs.155.0
+===============================================
+ Bill Amount				Rs.371.0
+ Discount				Rs.18.55
+ Net Pay				Rs.352.45
+===============================================
+
+        
